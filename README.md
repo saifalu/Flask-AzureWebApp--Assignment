@@ -1,4 +1,4 @@
-#Deploying Flask Application to Azure Web App using GitHub Actions
+#Deploying Flask Application to Azure Web App using GitHub Actions#
 Tasks Performed
 Directory and Environment Setup
 
