@@ -53,7 +53,7 @@
 
 ### 7. Deployment Process
 - After saving the deployment settings, the deployment started using GitHub Actions to Azure Web App.
-- Configured the GitHub Actions Workflow (`deploy.yml`) for:
+- Configured the GitHub Actions Workflow (`master_flask-azurewebapp-assignment.yml`) for:
   - Setting up Python environment.
   - Installing dependencies (`pip install -r requirements.txt`).
   - Starting Flask application (`flask run`) with proper configuration.
